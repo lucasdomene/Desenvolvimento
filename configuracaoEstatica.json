@@ -1,0 +1,5 @@
+{
+	"urlUpdate":"http://api-ti.safra.com.br",
+	"portaApiLocal":"8080",
+	"maxTentativaDownload":"3",
+}
