@@ -2,7 +2,7 @@
     {
         "modulos": [
             {
-                "caminhoDownload": "https://github.com/Leandrofsbr/Desenvolvimento/blob/master/aplMobile.zip?raw=true",
+                "caminhoDownload": "https://github.com/Leandrofsbr/Desenvolvimento/blob/master/www.zip?raw=true",
                 "modulo": "apl-mobile-pf",
                 "versaoAtual": "0.0.2-beta.8",
                 "hash": "bfce746230890630300642b40e3f37ee6866c16fe254f5fcd637001c9305fd95",
