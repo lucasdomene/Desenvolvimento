@@ -15,10 +15,10 @@
     {
         "modulos": [
             {
-                "caminhoDownload": "http://stiap001vt.safra.com.br/ti/apl-mobile-pf",
+                "caminhoDownload": "https://github.com/Leandrofsbr/Desenvolvimento/blob/master/www.zip?raw=true",
                 "modulo": "apl-mobile-pf",
                 "versaoAtual": "0.0.2-beta.8",
-                "hash": "1f906551ce29a89144bda224726bb36afdc820336eae178b82f633972361ac36",
+                "hash": "6de3b60e0df71c48a4c95f024887cf7a65410ca3dfe257f40719ab99deca6e4a",
                 "versaoMinima": "0.0.2-beta.8"
             }
         ],
